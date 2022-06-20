@@ -11,8 +11,8 @@
     <groupId>com.daniel</groupId>
     <artifactId>spring-boot-ecommerce</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ecommer-be</name>
-    <description>ecommer-be</description>
+    <name>ecommerce-be</name>
+    <description>ecommerce-be</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
