@@ -1,0 +1,16 @@
+spring:
+    banner:
+        image:
+            location: banner.txt
+    data:
+        rest:
+            base-path: /api
+    datasource:
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        password: Ec0mmerce@11
+        url: jdbc:mysql://localhost:3306/full-stack-ecommerce
+        username: ecommerceapp
+    jpa:
+        properties:
+            hibernate:
+                dialect: org.hibernate.dialect.MySQL8Dialect
